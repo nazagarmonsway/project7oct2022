@@ -7,26 +7,3 @@
 }
 
 
-.col-6{
-  width: 50%;
-  float: left;
-  padding: 20px;
-}
-
-.col-4{
-  width: 33.33%;
-  float: left;
-  padding: 10px;
-}
-
-.col-3{
-  width: 25%;
-  float: left;
-  padding: 10px;
-}
-
-.col-2{
-  width: 16.66%;
-  float: left;
-  padding: 5px;
-}
