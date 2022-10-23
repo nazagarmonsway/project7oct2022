@@ -4,12 +4,12 @@ a.btn   {
     color: #000;
     text-decoration: none;
     text-transform: capitalize;
-    /* display: inline-block;
-    width: 150px;
+    display: inline-block;
+    /* width: 150px;
     height: 50px;
     line-height: 50px;
-    text-align: center; */
-    padding: 10px 25px;
+    text-align: center; 
+    padding: 10px 25px; */
     /* transition-property: background-color;
     transition-duration: 400ms;
     transition-timing-function: ease-in; */
@@ -20,4 +20,55 @@ a.btn   {
 
 .btn:hover{
     background-color: #f55;
+}
+
+
+
+.bear img{
+width: 100%;
+}
+
+.bear p{
+    margin-bottom: 20px;
+}
+
+.bear h3{
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.bear a{
+    float: right;
+}
+
+.block img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+.starter img {
+width: 100%;
+}
+
+nav {
+    height: 100px;
+    background-color: #000;
+    text-align: center;
+    line-height: 100px;
+}
+
+nav a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    display: inline-block;
+    margin: 0 30px;
+}
+
+nav a:hover{
+    color: #f55;
+    transition: color 400ms;
+    /* border-bottom: 2px solid; */
+    text-decoration: underline;
+
 }
